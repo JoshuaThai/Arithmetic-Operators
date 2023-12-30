@@ -1,7 +1,7 @@
 package math_operation;
 
 public interface Operator {
-	public int add(int x, int y);
+	public int add(int x, int y);//commit test
 	
 	public int subtract(int x, int y);
 	
