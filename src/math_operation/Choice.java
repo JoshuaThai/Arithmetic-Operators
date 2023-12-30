@@ -137,6 +137,6 @@ public class Choice implements Operator{
 		// TODO Auto-generated method stub
 		return (int) Math.pow(x, y);
 	}
-	
+	stdIn.close();
 
 }
